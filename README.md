@@ -12,6 +12,7 @@ I'm a passionate **Software Developer** with expertise in **PHP**, **Laravel**, 
 - **Version Control**: Git, GitHub
 - **Tools**: Docker, Nginx, Composer
 
+<!--
 ## Projects
 
 🌟 **[Project 1 Name](#)** - Brief description of the project.  
@@ -25,6 +26,7 @@ Feel free to connect with me:
 - [LinkedIn](#)  
 - [Twitter](#)  
 
+-->
 ---
 
 🔭 I’m currently working on improving my Next.js skills and contributing to open-source projects.  
