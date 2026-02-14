@@ -1,5 +1,5 @@
-# Nitish Kumar  
-Founder @ NinzaHost | Backend & Infrastructure Engineer
+# Hi there, I'm Nitish 👋
+
 
 I design and build scalable SaaS platforms, hosting automation systems, and performance-critical web infrastructure.
 
@@ -7,7 +7,7 @@ My work focuses on solving real scaling problems — high-volume logging, effici
 
 ---
 
-## Core Expertise
+## 🧠 Core Expertise
 
 - SaaS architecture & backend system design  
 - High-volume logging & analytics pipelines  
@@ -17,7 +17,7 @@ My work focuses on solving real scaling problems — high-volume logging, effici
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Backend:** PHP, Laravel  
 **Frontend:** Next.js, React  
@@ -27,7 +27,7 @@ My work focuses on solving real scaling problems — high-volume logging, effici
 
 ---
 
-## Engineering Focus
+## 📈 Engineering Focus
 
 - Performance engineering  
 - Database optimization & partitioning strategies  
@@ -36,6 +36,6 @@ My work focuses on solving real scaling problems — high-volume logging, effici
 
 ---
 
-## Contact
+## 🤝 Connect
 
 Open to collaboration on infrastructure-heavy or performance-critical projects.
