@@ -1,52 +1,41 @@
-<!--## Hi there 👋 -->
+# Nitish Kumar  
+Founder @ NinzaHost | Backend & Infrastructure Engineer
 
-# Hi there, I'm Nitish 👋
+I design and build scalable SaaS platforms, hosting automation systems, and performance-critical web infrastructure.
 
-I'm a passionate **Software Developer** with expertise in **PHP**, **Laravel**, and **Next.js**. I thrive on building scalable and efficient web applications and enjoy working on projects that challenge me to learn and grow.
+My work focuses on solving real scaling problems — high-volume logging, efficient media delivery, and cost-optimized infrastructure for modern SaaS products.
 
-## Skills & Technologies
+---
 
-- **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Next.js
-- **Databases**: MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Tools**: Docker, Nginx, Composer
+## Core Expertise
 
-<!--
-## Projects
+- SaaS architecture & backend system design  
+- High-volume logging & analytics pipelines  
+- Image optimization & delivery systems  
+- Hosting automation & billing integration  
+- VPS infrastructure optimization  
 
-🌟 **[Project 1 Name](#)** - Brief description of the project.  
-🌟 **[Project 2 Name](#)** - Brief description of the project.  
-🌟 **[Project 3 Name](#)** - Brief description of the project.  
+---
+
+## Tech Stack
+
+**Backend:** PHP, Laravel  
+**Frontend:** Next.js, React  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Infrastructure:** Docker, Nginx, Linux-based VPS  
+**Version Control:** Git, GitHub  
+
+---
+
+## Engineering Focus
+
+- Performance engineering  
+- Database optimization & partitioning strategies  
+- Scalable system design  
+- Cost-efficient infrastructure planning  
+
+---
 
 ## Contact
 
-Feel free to connect with me:
-
-- [LinkedIn](#)  
-- [Twitter](#)  
-
--->
----
-
-🔭 I’m currently working on improving my Next.js skills and contributing to open-source projects.  
-🌱 I’m constantly learning new technologies to enhance my development abilities.  
-⚡ Fun fact: I love solving complex problems through code and building innovative solutions!
-
-
-
-
-<!--
-**nitish969k/nitish969k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to collaboration on infrastructure-heavy or performance-critical projects.
